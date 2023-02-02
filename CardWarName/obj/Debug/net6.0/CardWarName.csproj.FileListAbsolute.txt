@@ -1,0 +1,15 @@
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\bin\Debug\net6.0\CardWarName.exe
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\bin\Debug\net6.0\CardWarName.deps.json
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\bin\Debug\net6.0\CardWarName.runtimeconfig.json
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\bin\Debug\net6.0\CardWarName.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\bin\Debug\net6.0\CardWarName.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.AssemblyInfo.cs
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\refint\CardWarName.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\CardWarName.genruntimeconfig.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\CardWarGame\CardWarName\CardWarName\obj\Debug\net6.0\ref\CardWarName.dll
